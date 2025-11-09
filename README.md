@@ -113,7 +113,7 @@ Ders ve öğrenci istatistikleri
 
 ```bash
 # Repository'yi klonlayın
-git clone https://github.com/KULLANICI_ADINIZ/Sinav-Sistemi.git
+git clone https://github.com/Wrindzler/Sinav-Sistemi.git
 cd Sinav-Sistemi
 
 # .env dosyası oluşturun
@@ -142,7 +142,7 @@ Tarayıcınızda **http://localhost:3000** açın!
 ### 1. Repository'yi Klonlayın
 
 ```bash
-git clone https://github.com/KULLANICI_ADINIZ/Sinav-Sistemi.git
+git clone https://github.com/Wrindzler/Sinav-Sistemi.git
 cd Sinav-Sistemi
 ```
 
@@ -372,7 +372,7 @@ kostu-sinav-sistemi/
 
 ```bash
 # 1. Klonlayın
-git clone https://github.com/KULLANICI_ADINIZ/Sinav-Sistemi.git
+git clone https://github.com/Wrindzler/Sinav-Sistemi.git
 cd Sinav-Sistemi
 
 # 2. .env oluşturun
@@ -402,7 +402,7 @@ pip install -r requirements.txt && npm install && BASLAT.bat
 ### Adım 2: Repository'yi İndirin
 
 ```bash
-git clone https://github.com/KULLANICI_ADINIZ/Sinav-Sistemi.git
+git clone https://github.com/Wrindzler/Sinav-Sistemi.git
 cd Sinav-Sistemi
 ```
 
@@ -618,9 +618,9 @@ Bu proje eğitim amaçlı geliştirilmiştir. Katkılarınızı bekliyoruz!
 
 ## 📞 İletişim
 
-**Proje Sahibi:** [https://github.com/Wrindzler]
+**Proje Sahibi:** [Wrindzler](https://github.com/Wrindzler)
 
-**Proje Linki:** [https://github.com/KULLANICI_ADINIZ/Sinav-Sistemi](https://github.com/KULLANICI_ADINIZ/Sinav-Sistemi)
+**Proje Linki:** [https://github.com/Wrindzler/Sinav-Sistemi](https://github.com/Wrindzler/Sinav-Sistemi)
 
 ---
 
