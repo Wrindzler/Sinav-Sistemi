@@ -316,19 +316,9 @@ Kullanıcı: admin
 - 🛡️ **Role-based Authorization** - Her rol sadece yetkili işlemleri yapabilir
 - 🚫 **SQL Injection** koruması (SQLAlchemy ORM)
 - 🔑 **UNIQUE Constraints** - Username, email, full_name benzersiz
-- 🙈 **`.env` Koruması** - Hassas bilgiler .gitignore'da
 - ✅ **Input Validasyonları** - Frontend ve backend'de çift kontrol
 
-### .env Dosyası
 
-⚠️ **ÖNEMLİ:** `.env` dosyası şifrelerinizi içerir ve **asla GitHub'a yüklenmemelidir!**
-
-```bash
-# .env dosyası .gitignore'da olduğundan GitHub'a yüklenmez
-# Her kullanıcı kendi .env dosyasını env.example'dan oluşturmalıdır
-```
-
----
 
 ## 📁 Proje Yapısı
 
